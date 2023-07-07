@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857877488070",
+    "project_id": "kawanamiandroid",
+    "storage_bucket": "kawanamiandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857877488070:android:f7b813654631235f5d92c7",
+        "android_client_info": {
+          "package_name": "com.example.kawanamiandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857877488070-j8h01gqe4lfqa73trllvkppmr7tkfj5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCjNdu_qcIgmvqnFynFcFd6BsL8dragRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857877488070-j8h01gqe4lfqa73trllvkppmr7tkfj5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
